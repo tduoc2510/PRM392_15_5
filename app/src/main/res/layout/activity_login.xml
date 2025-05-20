@@ -41,7 +41,6 @@
         android:padding="12dp"
         android:textColorHint="@color/white"
         />
-
     <!-- Mật khẩu -->
     <EditText
         android:id="@+id/edtPassword"
